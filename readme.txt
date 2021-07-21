@@ -3,6 +3,3 @@ Git is free software.
 hello world
 hello Git£¡
 µÚËÄÐÐ
-111
-222
-333
